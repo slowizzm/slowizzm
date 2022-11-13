@@ -1,16 +1,20 @@
-### Hi there 👋
+### Immersive Engineer @ [DeloitteDigital](https://www.deloittedigital.com/) - GPS Unlimited Reality
 
-<!--
-**slowizzm/slowizzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Domains:
+- Unlimited Reality (AR/VR/XR)
+- Digital Twin
+- Synthetic Data
 
-Here are some ideas to get you started:
+#### Tools & Tech:
+### 
+[![Development](https://skills.thijs.gg/icons?i=unity,unrealengine,vscode,processing&theme=dark)](#)
+### 
+[![Programming](https://skills.thijs.gg/icons?i=c,cs,cpp,java,javascript,nodejs,php,mysql,markdown&theme=dark)](#)
+### 
+[![Design](https://skills.thijs.gg/icons?i=photoshop,illustrator,figma,blender&theme=dark)](#)
+### 
+[![Productivity](https://skills.thijs.gg/icons?i=git,github,bash,powershell&theme=dark)](#)
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact:
+[![Linkedin Badge](https://img.shields.io/badge/-RaymondGMcCord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slowizzm/)](https://www.linkedin.com/in/slowizzm/)
