@@ -5,7 +5,7 @@
 - Digital Twin
 - Synthetic Data
 
-#### Tools & Tech:
+<!-- #### Tools & Tech:
 ### 
 [![Development](https://skills.thijs.gg/icons?i=unity,unrealengine,vscode,processing&theme=dark)](#)
 ### 
@@ -14,7 +14,7 @@
 [![Design](https://skills.thijs.gg/icons?i=photoshop,illustrator,figma,blender&theme=dark)](#)
 ### 
 [![Productivity](https://skills.thijs.gg/icons?i=git,github,bash,powershell&theme=dark)](#)
-###
+### -->
 
 #### Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-RaymondGMcCord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slowizzm/)](https://www.linkedin.com/in/slowizzm/)
