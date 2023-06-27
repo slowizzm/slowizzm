@@ -1,4 +1,4 @@
-### Immersive Engineer @ [DeloitteDigital](https://www.deloittedigital.com/) - GPS Unlimited Reality
+### Immersive Engineer | Immersive Designer @ [DeloitteDigital](https://www.deloittedigital.com/) - Unlimited Reality
 
 #### Domains:
 - Unlimited Reality (AR/VR/XR)
