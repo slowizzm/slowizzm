@@ -2,8 +2,8 @@
 
 #### Domains:
 - Unlimited Reality (AR/VR/XR)
-- Digital Twin
-- Synthetic Data
+- GenAI
+- Immersive Learning
 
 <!-- #### Tools & Tech:
 ### 
