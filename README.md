@@ -2,8 +2,8 @@
 
 #### Domains:
 - Unlimited Reality (AR/VR/XR)
-- GenAI
 - Immersive Learning
+- GenAI
 
 <!-- #### Tools & Tech:
 ### 
