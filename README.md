@@ -1,20 +1,9 @@
-### Immersive Engineer | Immersive Designer @ [DeloitteDigital](https://www.deloittedigital.com/) - Unlimited Reality
+### Immersive Design Lead & Experience Engineer @ [Deloitte Digital](https://www.deloittedigital.com/) – Unlimited Reality
 
-#### Domains:
-- Unlimited Reality (AR/VR/XR)
-- Immersive Learning
-- GenAI
-
-<!-- #### Tools & Tech:
-### 
-[![Development](https://skills.thijs.gg/icons?i=unity,unrealengine,vscode,processing&theme=dark)](#)
-### 
-[![Programming](https://skills.thijs.gg/icons?i=c,cs,cpp,java,javascript,nodejs,php,mysql,markdown&theme=dark)](#)
-### 
-[![Design](https://skills.thijs.gg/icons?i=photoshop,illustrator,figma,blender&theme=dark)](#)
-### 
-[![Productivity](https://skills.thijs.gg/icons?i=git,github,bash,powershell&theme=dark)](#)
-### -->
+#### Focus:
+- Immersive Design & Spatial Computing
+- Interactive Prototyping & Real-Time Systems
+- Bridging Design & Engineering in XR
 
 #### Contact:
-[![Linkedin Badge](https://img.shields.io/badge/-RaymondGMcCord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slowizzm/)](https://www.linkedin.com/in/slowizzm/)
+[![LinkedIn](https://img.shields.io/badge/-RaymondGMcCord-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/slowizzm/)](https://www.linkedin.com/in/slowizzm/)
