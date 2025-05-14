@@ -1,8 +1,8 @@
-### Immersive Design Lead & Experience Engineer @ [Deloitte Digital](https://www.deloittedigital.com/) – Unlimited Reality
+### Studio Senior @ [Deloitte Digital](https://www.deloittedigital.com/) – Unlimited Reality
 
 #### Focus:
-- Immersive Design & Spatial Computing
-- Interactive Prototyping & Real-Time Systems
+- Immersive Design Lead & Experience Engineer  
+- Creative Prototyping & Technical Art  
 - Bridging Design & Engineering in XR
 
 #### Contact:
