@@ -1,4 +1,4 @@
-### Studio Senior @ [Deloitte Digital](https://www.deloittedigital.com/) – Unlimited Reality
+### Studio Senior @ [Deloitte Digital](https://www.deloittedigital.com/)
 
 #### Focus:
 - Senior Design Lead & Experience Engineer  
