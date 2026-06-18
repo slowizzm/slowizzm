@@ -1,7 +1,7 @@
 ### Studio Senior @ [Deloitte Digital](https://www.deloittedigital.com/)
 
 #### Focus:
-- Senior Design Lead & Experience Engineer  
+- Senior Immersive Designer & Experience Engineer  
 - Creative Prototyping & Technical Art  
 - Bridging Design & Engineering
 
